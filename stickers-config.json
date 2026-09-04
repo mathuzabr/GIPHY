@@ -1,10 +1,16 @@
 {
   "giphy": {
+    "strategy": "random_on_failure",
     "apiKeys": [
+      "JnCeaaNkwYsjkHinH1izV1dX7628w1DC",
+      "oTvmjx3ZqxwK1daHDc3ZSYjIdKBr8EMg",
+      "RX8ZvbKQeoBSdWm6BsZmYNNznmObNUHM",
+      "In7lzKyMiZuN6CFrZfXDU94JQqsYaBGX",
+      "MPHyugKqout4DfiKhja9Oy33uLghaigg",
       "sXpGFDGZs0Dv1mmNFvYaGUvYwKX0PWIh"
     ],
-    "activeKey": "sXpGFDGZs0Dv1mmNFvYaGUvYwKX0PWIh"
+    "activeKey": "JnCeaaNkwYsjkHinH1izV1dX7628w1DC"
   },
-  "version": 1,
-  "updatedAt": "2026-09-04T09:55:00Z"
+  "version": 2,
+  "updatedAt": "2026-09-04T10:02:00Z"
 }
